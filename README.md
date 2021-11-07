@@ -13,5 +13,5 @@ This project objective is to find the effect of sampling on the imbalanced datas
 ## Acknowledgements
 
 The dataset used in this notebook were downloaded from:
-(https://www.kaggle.com/mlg-ulb/creditcardfraud)
+(https://malaysia.indeed.com/)
   
